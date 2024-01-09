@@ -1,0 +1,1 @@
+Rock Paper Scissors file to test JavaScript for The Odin Project
